@@ -1,2 +1,3 @@
-# Database_class
-This is the project of class
+**To run our code you need first open a terminal, and run:**
+
+``python main.py``
